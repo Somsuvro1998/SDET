@@ -13,5 +13,6 @@ public class SampleTest {
 		System.out.println("Say Hi");
 		System.out.println("Say Hello");
 		System.out.println("Say Hola");
+		System.out.println("Say Gracious");
 	}
 }
