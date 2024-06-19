@@ -11,5 +11,6 @@ public class SampleTest {
 		WebDriver driver=new ChromeDriver();
 	driver.get("https://www.google.com/");	
 		System.out.println("Say Hi");
+		System.out.println("Say Hello");
 	}
 }
