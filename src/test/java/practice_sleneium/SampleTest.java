@@ -12,5 +12,6 @@ public class SampleTest {
 	driver.get("https://www.google.com/");	
 		System.out.println("Say Hi");
 		System.out.println("Say Hello");
+		System.out.println("Say Hola");
 	}
 }
